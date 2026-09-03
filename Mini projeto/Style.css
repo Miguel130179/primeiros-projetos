@@ -1,0 +1,74 @@
+body{
+  background-color: #FFFDD0;
+}
+.principal{
+  text-align: center;
+  font-weight: 20px;
+}
+#escolha{
+  padding: 10px;
+  height: 15px;
+  flex-direction: center;
+  align-items: center;
+  display:flex;
+  margin: auto;
+  text-align: center;
+border-radius: 6px;
+border-color: brown;
+}
+
+#macqueen{
+  Text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  animation-timeline: view();
+  animation: aparecer 0.5s ease-in-out;
+}
+@keyframes aparecer{
+from{  opacity: 0;
+  transform:-100vw 0;
+}
+to{
+  translate: 0vw;
+  opacity 0
+}
+}
+#confirm{
+
+  
+
+ background-color: white;
+ font-weight: bold;
+  border-radius:5px;
+  height: 35px;
+  width: 55px;
+backgroun
+  border: black;
+}
+#b{
+  color: black;
+  font: Arial, 20px;
+  font-weight: bold;
+}
+body{
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.alinhamento{
+  display: flex;
+  justify-content: space-between;
+}
