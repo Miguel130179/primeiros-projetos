@@ -1,0 +1,77 @@
+body{
+  background-color: white;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+
+#areag{
+
+  width: 510px;
+  height: 510px;
+  background-color: ;
+  border: 2px solid grey;
+  border-right: 5px solid white;
+}
+#mycanvas{
+  display: flex:
+  margin: auto;
+}
+
+#receba{
+  display: flex;
+  justify-content: space-around;
+}
+
+#right{
+  display: flex;
+ justify-content: center;
+ align-items: center;
+  background-color: lightblue;
+  display: flex;
+  height: 50pt;
+  width: 50pt;
+  margin: auto;
+}
+
+#left{
+  display: flex;
+  background-color: lightblue;
+  justify-content: center;
+ align-items: center;
+  display: flex;
+  height: 50pt;
+  width: 50pt;
+  margin: auto;
+}
+
+#up{
+  display: flex;
+ background-color: lightblue;
+  rotate: 270deg;
+  display: flex;
+  height: 50pt;
+  width: 50pt;
+  justify-content: center;
+ align-items: center;
+ margin: auto;
+}
+
+#down{
+  display: flex;
+ justify-content: center;
+ align-items: center;
+  rotate: 90deg;
+  display: flex;
+  height: 50pt;
+  width: 50pt;
+  background-color: lightblue;
+  margin: auto;
+}
+#points{
+  padding: 0;
+  margin: 0;
+  color: white;
+  background-color: blue;
+}
