@@ -1,2 +1,6 @@
 # primeiros-projetos
-this repository is to commit my firts steps in programming
+ENGLISH:
+this repository is to commit my firsts steps in programming
+
+BR:
+esse repositorio e para comentar sobre meus primeiros passos na programacao
